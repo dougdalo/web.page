@@ -1,0 +1,82 @@
+
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #02fc55;
+    width:70%;
+    font-family: sans-serif;
+
+}
+
+div, h2 .container{
+    background-color: blue;
+    
+}
+
+div .title{
+    
+    background-color: red;
+    text-align: center;
+}
+div #menurentalcar{
+    list-style: none;
+    padding: 0;
+    background-color: rgb(41, 41, 41);
+    
+
+}
+div #menurentalcar li{
+    display: inline;
+    margin: auto;
+    
+}
+div #menurentalcar li a{
+    color: #fff;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+
+}
+div #menurentalcar li a:hover{
+    background-color: rgb(29, 62, 209);
+
+}
+
+div .banner{
+    display : flex;
+    flex-direction : row;
+    padding: 0 auto;
+    box-sizing: border-box;
+    margin: auto;
+
+}
+div .banner1{
+    background-color: yellow;
+    text-align: justify;
+    margin: 0 auto;
+    
+}
+div .banner2{
+    background-color: green;
+    text-align: justify;
+    margin: auto;
+}
+div .banner3{
+    background-color: orange;
+    text-align: justify;
+    margin: auto;
+}
+div .banner4{
+    background-color: pink;
+    text-align: justify;
+    margin: auto;
+}
+div .footer{
+    background-color: #02fc55;
+    text-align: center;
+    margin: auto;
+}
